@@ -1,0 +1,300 @@
+2025-08-26 11:48:33 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/1.png
+2025-08-26 11:48:38 - __main__ - WARNING: 没有找到角点 /home/jgd/work/hand_eye_calibration/2025-08-26_2/1.png
+2025-08-26 11:48:38 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/2.png
+2025-08-26 11:48:39 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/3.png
+2025-08-26 11:48:45 - __main__ - WARNING: 没有找到角点 /home/jgd/work/hand_eye_calibration/2025-08-26_2/3.png
+2025-08-26 11:48:45 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/4.png
+2025-08-26 11:48:46 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/5.png
+2025-08-26 11:48:46 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/6.png
+2025-08-26 11:48:46 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/7.png
+2025-08-26 11:48:47 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/8.png
+2025-08-26 11:48:55 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/9.png
+2025-08-26 11:48:55 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/10.png
+2025-08-26 11:48:55 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/11.png
+2025-08-26 11:48:56 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/12.png
+2025-08-26 11:48:56 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/13.png
+2025-08-26 11:48:56 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/15.png
+2025-08-26 11:48:57 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/16.png
+2025-08-26 11:48:57 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/17.png
+2025-08-26 11:48:57 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/18.png
+2025-08-26 11:48:58 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/19.png
+2025-08-26 11:48:58 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/20.png
+2025-08-26 11:50:08 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/1.png
+2025-08-26 11:50:14 - __main__ - WARNING: 没有找到角点 /home/jgd/work/hand_eye_calibration/2025-08-26_2/1.png
+2025-08-26 11:50:14 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/2.png
+2025-08-26 11:50:14 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/3.png
+2025-08-26 11:50:21 - __main__ - WARNING: 没有找到角点 /home/jgd/work/hand_eye_calibration/2025-08-26_2/3.png
+2025-08-26 11:50:21 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/4.png
+2025-08-26 11:50:21 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/5.png
+2025-08-26 11:50:22 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/6.png
+2025-08-26 11:50:22 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/7.png
+2025-08-26 11:50:22 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/8.png
+2025-08-26 11:50:29 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/9.png
+2025-08-26 11:50:30 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/10.png
+2025-08-26 11:50:30 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/11.png
+2025-08-26 11:50:30 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/12.png
+2025-08-26 11:50:31 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/13.png
+2025-08-26 11:50:31 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/15.png
+2025-08-26 11:50:31 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/16.png
+2025-08-26 11:50:32 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/17.png
+2025-08-26 11:50:32 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/18.png
+2025-08-26 11:50:32 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/19.png
+2025-08-26 11:50:33 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/20.png
+2025-08-26 11:50:33 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/0.armpose
+2025-08-26 11:50:33 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/2.armpose
+2025-08-26 11:50:33 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/4.armpose
+2025-08-26 11:50:33 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/5.armpose
+2025-08-26 11:50:33 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/6.armpose
+2025-08-26 11:50:33 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/7.armpose
+2025-08-26 11:50:33 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/8.armpose
+2025-08-26 11:50:33 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/9.armpose
+2025-08-26 11:50:33 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/10.armpose
+2025-08-26 11:50:33 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/11.armpose
+2025-08-26 11:50:33 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/12.armpose
+2025-08-26 11:50:33 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/13.armpose
+2025-08-26 11:52:52 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/1.png
+2025-08-26 11:52:59 - __main__ - WARNING: 没有找到角点 /home/jgd/work/hand_eye_calibration/2025-08-26_2/1.png
+2025-08-26 11:52:59 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/2.png
+2025-08-26 11:52:59 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/3.png
+2025-08-26 11:53:05 - __main__ - WARNING: 没有找到角点 /home/jgd/work/hand_eye_calibration/2025-08-26_2/3.png
+2025-08-26 11:53:05 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/4.png
+2025-08-26 11:53:05 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/5.png
+2025-08-26 11:53:06 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/6.png
+2025-08-26 11:53:06 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/7.png
+2025-08-26 11:53:07 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/8.png
+2025-08-26 11:53:14 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/9.png
+2025-08-26 11:53:14 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/10.png
+2025-08-26 11:53:14 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/11.png
+2025-08-26 11:53:15 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/12.png
+2025-08-26 11:53:15 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/13.png
+2025-08-26 11:53:15 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/14.png
+2025-08-26 11:53:16 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/15.png
+2025-08-26 11:53:16 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/16.png
+2025-08-26 11:53:16 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/17.png
+2025-08-26 11:53:17 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/18.png
+2025-08-26 11:53:17 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/19.png
+2025-08-26 11:53:17 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/20.png
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/0.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/2.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/4.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/5.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/6.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/7.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/8.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/9.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/10.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/11.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/12.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/13.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/14.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/15.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/16.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/17.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/18.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/19.armpose
+2025-08-26 11:53:18 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/20.armpose
+2025-08-26 11:53:18 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.84449738 -0.53522185  0.01901988]
+ [ 0.52487504  0.83418571  0.16923472]
+ [-0.10644423 -0.13293522  0.98539223]]
+2025-08-26 11:53:18 - __main__ - INFO: 平移向量是:
+ [[-0.03744612]
+ [-0.00528847]
+ [-0.080627  ]]
+2025-08-26 11:53:18 - __main__ - INFO: 四元数是：
+ [-0.07892945  0.03277233  0.27690664  0.95708873]
+2025-08-26 11:59:36 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/1.png
+2025-08-26 11:59:42 - __main__ - WARNING: 没有找到角点 /home/jgd/work/hand_eye_calibration/2025-08-26_2/1.png
+2025-08-26 11:59:42 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/2.png
+2025-08-26 11:59:42 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/3.png
+2025-08-26 11:59:49 - __main__ - WARNING: 没有找到角点 /home/jgd/work/hand_eye_calibration/2025-08-26_2/3.png
+2025-08-26 11:59:49 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/4.png
+2025-08-26 11:59:50 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/5.png
+2025-08-26 11:59:50 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/6.png
+2025-08-26 11:59:50 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/7.png
+2025-08-26 11:59:51 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/8.png
+2025-08-26 11:59:58 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/9.png
+2025-08-26 11:59:59 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/10.png
+2025-08-26 11:59:59 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/11.png
+2025-08-26 11:59:59 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/12.png
+2025-08-26 12:00:00 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/13.png
+2025-08-26 12:00:00 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/14.png
+2025-08-26 12:00:00 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/15.png
+2025-08-26 12:00:00 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/16.png
+2025-08-26 12:00:01 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/17.png
+2025-08-26 12:00:01 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/18.png
+2025-08-26 12:00:01 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/19.png
+2025-08-26 12:00:02 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/20.png
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/0.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/2.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/4.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/5.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/6.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/7.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/8.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/9.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/10.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/11.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/12.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/13.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/14.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/15.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/16.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/17.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/18.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/19.armpose
+2025-08-26 12:00:02 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/20.armpose
+2025-08-26 12:00:02 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.72529205  0.04547516 -0.68693773]
+ [-0.39112664  0.84835793 -0.35680356]
+ [ 0.56654338  0.52746643  0.63309381]]
+2025-08-26 12:00:02 - __main__ - INFO: 平移向量是:
+ [[ 0.09428581]
+ [ 0.08654025]
+ [-0.33925637]]
+2025-08-26 12:00:02 - __main__ - INFO: 四元数是：
+ [ 0.24690095 -0.34999002 -0.12190553  0.89536917]
+2025-08-26 12:03:40 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/1.png
+2025-08-26 12:03:46 - __main__ - WARNING: 没有找到角点 /home/jgd/work/hand_eye_calibration/2025-08-26_2/1.png
+2025-08-26 12:03:46 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/2.png
+2025-08-26 12:03:46 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/3.png
+2025-08-26 12:03:53 - __main__ - WARNING: 没有找到角点 /home/jgd/work/hand_eye_calibration/2025-08-26_2/3.png
+2025-08-26 12:03:53 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/4.png
+2025-08-26 12:03:53 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/5.png
+2025-08-26 12:03:53 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/6.png
+2025-08-26 12:03:54 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/7.png
+2025-08-26 12:03:54 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/8.png
+2025-08-26 12:04:01 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/9.png
+2025-08-26 12:04:02 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/10.png
+2025-08-26 12:04:02 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/11.png
+2025-08-26 12:04:03 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/12.png
+2025-08-26 12:04:03 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/13.png
+2025-08-26 12:04:03 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/15.png
+2025-08-26 12:04:04 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/16.png
+2025-08-26 12:04:04 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/17.png
+2025-08-26 12:04:04 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/18.png
+2025-08-26 12:04:05 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/19.png
+2025-08-26 12:04:05 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/20.png
+2025-08-26 12:04:05 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/0.armpose
+2025-08-26 12:04:05 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/2.armpose
+2025-08-26 12:04:05 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/4.armpose
+2025-08-26 12:04:05 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/5.armpose
+2025-08-26 12:04:05 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/6.armpose
+2025-08-26 12:04:05 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/7.armpose
+2025-08-26 12:04:05 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/8.armpose
+2025-08-26 12:04:05 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/9.armpose
+2025-08-26 12:04:05 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/10.armpose
+2025-08-26 12:04:05 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/11.armpose
+2025-08-26 12:04:05 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/12.armpose
+2025-08-26 12:04:05 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/13.armpose
+2025-08-26 12:04:05 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/15.armpose
+2025-08-26 12:04:05 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/16.armpose
+2025-08-26 12:04:05 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/17.armpose
+2025-08-26 12:04:05 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/18.armpose
+2025-08-26 12:04:05 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/19.armpose
+2025-08-26 12:04:05 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.79975819 -0.01115203 -0.60021869]
+ [-0.29891881  0.85966954 -0.41426539]
+ [ 0.52060963  0.5107288   0.6841942 ]]
+2025-08-26 12:04:05 - __main__ - INFO: 平移向量是:
+ [[ 0.08571151]
+ [ 0.10114589]
+ [-0.33684122]]
+2025-08-26 12:04:05 - __main__ - INFO: 四元数是：
+ [ 0.25293005 -0.30647886 -0.07868684  0.91427867]
+2025-08-26 12:06:42 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/1.png
+2025-08-26 12:06:50 - __main__ - WARNING: 没有找到角点 /home/jgd/work/hand_eye_calibration/2025-08-26_2/1.png
+2025-08-26 12:06:50 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/2.png
+2025-08-26 12:06:50 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/3.png
+2025-08-26 12:06:57 - __main__ - WARNING: 没有找到角点 /home/jgd/work/hand_eye_calibration/2025-08-26_2/3.png
+2025-08-26 12:06:57 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/4.png
+2025-08-26 12:06:57 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/5.png
+2025-08-26 12:06:57 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/6.png
+2025-08-26 12:06:58 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/7.png
+2025-08-26 12:06:58 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/8.png
+2025-08-26 12:07:05 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/9.png
+2025-08-26 12:07:05 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/10.png
+2025-08-26 12:07:06 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/11.png
+2025-08-26 12:07:06 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/12.png
+2025-08-26 12:07:06 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/13.png
+2025-08-26 12:07:07 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/15.png
+2025-08-26 12:07:07 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/16.png
+2025-08-26 12:07:07 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/17.png
+2025-08-26 12:07:08 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/18.png
+2025-08-26 12:07:08 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/19.png
+2025-08-26 12:07:08 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/20.png
+2025-08-26 12:07:09 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/0.armpose
+2025-08-26 12:07:09 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/2.armpose
+2025-08-26 12:07:09 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/4.armpose
+2025-08-26 12:07:09 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/5.armpose
+2025-08-26 12:07:09 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/6.armpose
+2025-08-26 12:07:09 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/7.armpose
+2025-08-26 12:07:09 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/8.armpose
+2025-08-26 12:07:09 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/9.armpose
+2025-08-26 12:07:09 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/10.armpose
+2025-08-26 12:07:09 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/11.armpose
+2025-08-26 12:07:09 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/12.armpose
+2025-08-26 12:07:09 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/13.armpose
+2025-08-26 12:07:09 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/15.armpose
+2025-08-26 12:07:09 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/16.armpose
+2025-08-26 12:07:09 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/17.armpose
+2025-08-26 12:07:09 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/18.armpose
+2025-08-26 12:07:09 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/19.armpose
+2025-08-26 12:07:09 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.79975819 -0.01115203 -0.60021869]
+ [-0.29891881  0.85966954 -0.41426539]
+ [ 0.52060963  0.5107288   0.6841942 ]]
+2025-08-26 12:07:09 - __main__ - INFO: 平移向量是:
+ [[ 0.08571151]
+ [ 0.10114589]
+ [-0.33684122]]
+2025-08-26 12:07:09 - __main__ - INFO: 四元数是：
+ [ 0.25293005 -0.30647886 -0.07868684  0.91427867]
+2025-08-26 13:37:01 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/1.png
+2025-08-26 13:37:07 - __main__ - WARNING: 没有找到角点 /home/jgd/work/hand_eye_calibration/2025-08-26_2/1.png
+2025-08-26 13:37:07 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/2.png
+2025-08-26 13:37:07 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/3.png
+2025-08-26 13:37:14 - __main__ - WARNING: 没有找到角点 /home/jgd/work/hand_eye_calibration/2025-08-26_2/3.png
+2025-08-26 13:37:14 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/4.png
+2025-08-26 13:37:14 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/5.png
+2025-08-26 13:37:15 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/6.png
+2025-08-26 13:37:15 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/7.png
+2025-08-26 13:37:15 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/8.png
+2025-08-26 13:37:22 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/9.png
+2025-08-26 13:37:23 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/10.png
+2025-08-26 13:37:23 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/11.png
+2025-08-26 13:37:23 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/12.png
+2025-08-26 13:37:23 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/13.png
+2025-08-26 13:37:24 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/15.png
+2025-08-26 13:37:24 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/16.png
+2025-08-26 13:37:24 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/17.png
+2025-08-26 13:37:25 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/18.png
+2025-08-26 13:37:25 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/19.png
+2025-08-26 13:37:26 - __main__ - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/20.png
+2025-08-26 13:37:26 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/0.armpose
+2025-08-26 13:37:26 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/2.armpose
+2025-08-26 13:37:26 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/4.armpose
+2025-08-26 13:37:26 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/5.armpose
+2025-08-26 13:37:26 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/6.armpose
+2025-08-26 13:37:26 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/7.armpose
+2025-08-26 13:37:26 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/8.armpose
+2025-08-26 13:37:26 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/9.armpose
+2025-08-26 13:37:26 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/10.armpose
+2025-08-26 13:37:26 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/11.armpose
+2025-08-26 13:37:26 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/12.armpose
+2025-08-26 13:37:26 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/13.armpose
+2025-08-26 13:37:26 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/15.armpose
+2025-08-26 13:37:26 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/16.armpose
+2025-08-26 13:37:26 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/17.armpose
+2025-08-26 13:37:26 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/18.armpose
+2025-08-26 13:37:26 - save_poses - INFO: 读 /home/jgd/work/hand_eye_calibration/2025-08-26_2/19.armpose
+2025-08-26 13:37:26 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.79967845 -0.01429537 -0.60025829]
+ [-0.29749481  0.85894496 -0.41678579]
+ [ 0.52154694  0.51186834  0.68262698]]
+2025-08-26 13:37:26 - __main__ - INFO: 平移向量是:
+ [[ 0.08545712]
+ [ 0.10150331]
+ [-0.33635596]]
+2025-08-26 13:37:26 - __main__ - INFO: 四元数是：
+ [ 0.25402092 -0.30685482 -0.07746542  0.91395437]
